@@ -6,7 +6,7 @@ public class Main {
     
     public static void main(String[] args) {
         
-        System.out.println("Zologico Departamental Main");
+        System.out.println("Zologico Departamental Main - Colombia");
         Animal misAnimales[] = new Animal[4];
         
         
