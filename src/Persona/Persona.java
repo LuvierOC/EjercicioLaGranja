@@ -1,5 +1,5 @@
 
-package Empleado;
+package Persona;
 
 public abstract class Persona {
 
